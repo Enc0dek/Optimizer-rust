@@ -23,7 +23,7 @@
 <style>
   ul {
     list-style-type: none;
-    margin: 0;
+    margin: auto;
     padding: 0;
   }
 
@@ -53,4 +53,5 @@
   button:hover {
     background-color: rgb(183, 0, 255);
   }
+
 </style>
